@@ -44,7 +44,7 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "http://swcarpentry.github.io/r-novice-gapminder/"
+workshop_repo: "https://swcarpentry.github.io/r-novice-gapminder/"
 workshop_site: "https://emm13.github.io/2018-10-17-swc/"
 
 # Surveys.
